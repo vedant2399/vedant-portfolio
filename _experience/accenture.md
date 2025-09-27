@@ -1,7 +1,7 @@
 ---
 title: "Accenture Solutions"
 role: "Senior Data Analyst"
-date: "Jul 2021 – Jul 2023"
+date_range: Jul 2021 – Jul 2023
 location: "India / Remote"
 tech: "SQL, Python, Excel, Dashboards, GCP (BigQuery, Firestore, Spanner), Agile (Azure DevOps), Azure, Git"
 ---
