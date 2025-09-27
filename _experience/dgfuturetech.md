@@ -1,7 +1,7 @@
 ---
 title: "DG FutureTech"
 role: "Data Analyst"
-date: "Jan 2021 – Jun 2021"
+date_range: Jan 2021 – Jun 2021
 location: "India"
 tech: "Tableau, Python, SQL, Excel"
 ---
