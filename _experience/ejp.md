@@ -1,7 +1,7 @@
 ---
 title: "Education Justice Project"
 role: "Senior Data Analyst"
-date: "Jan 2024 – May 2024"
+date_range: Jan 2024 – May 2024
 location: "United States"
 tech: "SQL, Tableau, Excel (Pivot Tables, VLOOKUP, VBA), Google Analytics"
 ---
