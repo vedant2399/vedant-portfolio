@@ -1,7 +1,7 @@
 ---
 title: "Synchrony Financial"
 role: "Data Analyst"
-date: "May 2024 – Present"
+date: "May 2024 – Aug 2025"
 location: "United States"
 tech: "AWS (Lambda, S3, CloudFormation, SQS), Python (Boto3, Pandas), Splunk, Agile (JIRA)"
 ---
